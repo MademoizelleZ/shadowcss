@@ -1,0 +1,50 @@
+.fond {
+  width: 470px;
+  background: #afd1db;
+  border: 1px solid #fff;
+  padding: 5px;
+  margin: 20px auto;
+}
+
+ttr {
+  font-family: 'Uncial Antiqua',cursive;
+  font-size: 24px;
+  text-align: center;
+  color: #14759c;
+  line-height: 20px;
+}
+
+.bann {
+  margin: 4px;
+  padding: 2px;
+  border: 1px solid #fff;
+  opacity: .8;
+  width: 450px;
+}
+
+.cadre1 {
+  padding: 10px;
+  width: 430px;
+  font-size: 12px;
+  line-height: 12px;
+  text-align: justify;
+  background: #E0E8EA;
+  border: 1px solid #fff;
+  margin: 10px auto;
+}
+
+.ch4 {
+  min-width: 180px;
+  letter-spacing: 2px;
+  font-size: 11px;
+  text-transform: uppercase;
+  font-family: Times new roman;
+  background-image: linear-gradient(to right,#afd1db,#ddd2ae);
+  background-image: -moz-linear-gradient(left,#afd1db,#ddd2ae);
+  color: #14759c;
+  text-align: center;
+  border-radius: 0 3px 3px 0;
+  padding: 2px 20px;
+  line-height: 15px;
+  font-weight: 700;
+}
